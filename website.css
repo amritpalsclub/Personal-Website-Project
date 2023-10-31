@@ -1,0 +1,23 @@
+html {
+  background-color: aqua;
+  height: 100%;
+  margin-top: auto;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.centerBox {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+}
